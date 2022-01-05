@@ -1,4 +1,6 @@
 .idea
+.temp
+.cache
 node_modules/
 deploy.sh
 docs/.vuepress/dist/
