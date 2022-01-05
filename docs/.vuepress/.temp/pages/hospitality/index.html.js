@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1641387389000,
+    "contributors": [
+      {
+        "name": "MimisK13",
+        "email": "mimisk88@gmail.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "hospitality/README.md"
 }
