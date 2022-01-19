@@ -1,7 +1,3 @@
 # Backline
 
-## Drums
-
-## Bass
-
-## Guitars
+wip
