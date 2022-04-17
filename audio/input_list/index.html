@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.38">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>Input List | RTFR</title><meta name="description" content="Read The Fucking Rider">
+    <link rel="modulepreload" href="/assets/app.bb71b864.js"><link rel="modulepreload" href="/assets/index.html.94ef4426.js"><link rel="modulepreload" href="/assets/index.html.5d418336.js">
+    <link rel="stylesheet" href="/assets/style.ad39ac22.css">
+  </head>
+  <body>
+    <div id="app"><!----></div>
+    <script type="module" src="/assets/app.bb71b864.js" defer></script>
+  </body>
+</html>

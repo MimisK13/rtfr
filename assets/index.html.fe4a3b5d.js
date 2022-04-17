@@ -1,0 +1,1 @@
+const e={key:"v-2aabeb22",path:"/audio/backline/",title:"Backline",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642601543e3,contributors:[{name:"MimisK13",email:"mimisk88@gmail.com",commits:2}]},filePathRelative:"audio/backline/README.md"};export{e as data};

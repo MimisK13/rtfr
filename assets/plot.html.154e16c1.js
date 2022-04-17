@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as s}from"./app.bb71b864.js";const c={},_={id:"light-plot",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#light-plot","aria-hidden":"true"},"#",-1),n=s(" Light Plot"),h=[r,n];function i(l,d){return t(),o("h1",_,h)}var p=e(c,[["render",i],["__file","plot.html.vue"]]);export{p as default};

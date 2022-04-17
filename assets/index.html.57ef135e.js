@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as t,F as c,a as e,b as r}from"./app.bb71b864.js";const s={},o=e("h1",{id:"backline",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#backline","aria-hidden":"true"},"#"),r(" Backline")],-1),i=e("p",null,"wip",-1);function _(l,d){return n(),t(c,null,[o,i],64)}var f=a(s,[["render",_],["__file","index.html.vue"]]);export{f as default};
