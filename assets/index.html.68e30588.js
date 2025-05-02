@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a,b as s}from"./app.bb71b864.js";const c={},_={id:"video",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#video","aria-hidden":"true"},"#",-1),d=s(" VIDEO"),n=[r,d];function i(h,f){return t(),o("h1",_,n)}var x=e(c,[["render",i],["__file","index.html.vue"]]);export{x as default};

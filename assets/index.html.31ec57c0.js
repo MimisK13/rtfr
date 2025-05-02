@@ -1,1 +1,0 @@
-const e={key:"v-ce20e166",path:"/video/",title:"VIDEO",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641387389e3,contributors:[{name:"MimisK13",email:"mimisk88@gmail.com",commits:1}]},filePathRelative:"video/README.md"};export{e as data};
