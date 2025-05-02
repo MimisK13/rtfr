@@ -8,7 +8,7 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'RTFR',
   description: 'Read The Fucking Rider',
-  base: '/rtfr/',
+  base: '/',
 
   theme: defaultTheme({
     logo: 'https://vuejs.org/images/logo.png',
