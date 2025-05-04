@@ -10,18 +10,34 @@ export default defineUserConfig({
   base: '/',
 
   theme: defaultTheme({
+    hostname: 'https://readthefuckingrider.com',
     logo: '/images/logo.png',
     darkMode: true,
     navbar: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
     ],
+    // sidebar: [
+    //   { text: 'Front Of House', collapsible: true, link: '/audio/foh/' },
+    //   { text: 'Monitor', link: '/audio/monitor/' },
+    //   { text: 'Input List', link: '/audio/input_list/' },
+    //   { text: 'Backline', link: '/audio/backline/' },
+    //   { text: 'Stage Plan', link: '/audio/stage_plan/' },
+    // ],
     sidebar: [
-      { text: 'Front Of House', link: '/audio/foh/' },
-      { text: 'Monitor', link: '/audio/monitor/' },
-      { text: 'Input List', link: '/audio/input_list/' },
-      { text: 'Backline', link: '/audio/backline/' },
-      { text: 'Stage Plan', link: '/audio/stage_plan/' },
+      {
+        text: 'Guide',
+        collapsible: false,
+        children: [
+          '/audio/introduction.md',
+          '/audio/getting-started.md',
+          '/audio/foh/',
+          '/audio/monitor/',
+          '/audio/input_list/',
+          '/audio/backline/',
+          '/audio/stage_plan/',
+        ],
+      },
     ],
     sidebarDepth: 2,
     displayAllHeaders: true,

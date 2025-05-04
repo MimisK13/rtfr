@@ -5,13 +5,13 @@ heroText: Read the fucking rider!
 tagline: A practical guide for musicians and techs who are tired of repeating the same mistakes
 
 actions:
-  - text: Get Started
-    link: /getting-started.html
-    type: primary
-
   - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+    link: /audio/introduction.html
     type: secondary
+    
+  - text: Get Started
+    link: /audio/getting-started.html
+    type: primary
 
 features:
   - title: Complete Breakdown
