@@ -17,13 +17,6 @@ export default defineUserConfig({
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
     ],
-    // sidebar: [
-    //   { text: 'Front Of House', collapsible: true, link: '/audio/foh/' },
-    //   { text: 'Monitor', link: '/audio/monitor/' },
-    //   { text: 'Input List', link: '/audio/input_list/' },
-    //   { text: 'Backline', link: '/audio/backline/' },
-    //   { text: 'Stage Plan', link: '/audio/stage_plan/' },
-    // ],
     sidebar: [
       {
         text: 'Guide',

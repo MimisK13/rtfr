@@ -1,4 +1,4 @@
-# Stage Plot (Stage Plan)
+# Stage Plot
 
 The stage plot is a **visual diagram** that shows the placement of all musicians, instruments, monitors, and technical gear on stage. It works hand-in-hand with the input list and monitor mix section, giving the crew a complete picture of the setup before load-in.
 
@@ -31,7 +31,6 @@ The stage plot is a **visual diagram** that shows the placement of all musicians
 
 - Attach it as a **PDF or image file**.
 - Use simple diagramming tools such as:
-    - [StagePlotPro](https://www.stageplot.com/)
     - [draw.io (Diagram.net)](https://www.diagrams.net/)
     - Canva, Sketch, Figma, or even PowerPoint.
 - Keep the file name clear, e.g. `BandName_StagePlot.pdf`.

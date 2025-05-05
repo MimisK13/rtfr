@@ -1,8 +1,8 @@
-# Front Of House (FOH)
+# [FOH](/glossary.md#foh)
 
 [[TOC]]
 
-## PA System Requirements
+## [PA](/glossary.md#PA)
 
 This section of a technical rider outlines the sound system expectations from the artist or band. It’s crucial that this information is clear and specific so that audio technicians can prepare an appropriate system and ensure a successful show.
 
@@ -22,14 +22,14 @@ Example: “L-Acoustics, d&b audiotechnik, Meyer Sound, or equivalent.”
 
 - **System Engineer:** A qualified system tech should be present during load-in, system tuning, and soundcheck.
 
-### Sample Wording:
+### Sample
 
 > A high-quality, full-range PA system must be provided, capable of delivering at least 105 dB(A) continuous SPL at FOH with even ±3 dB coverage throughout the venue. 
 > Subwoofers should be cardioid or end-fired where possible and aligned with the main system. 
 > Preferred systems include L-Acoustics, d&b audiotechnik, Meyer Sound, or equivalent. 
 > A qualified system technician must be present for system tuning and show operation.
 
-## FOH & Monitor Console Preferences
+## Mixing Desks
 
 This section communicates which mixing consoles the artist prefers or requires — both at Front of House (FOH) and for stage monitors. If the artist is touring with their own consoles or engineers, that should be stated clearly. It’s also important to indicate whether a digital split or analog split is needed.
 
@@ -63,7 +63,7 @@ Scene recall or show files
 If using digital consoles:
 “Show files will be provided in advance for Yamaha CL/QL and Allen & Heath dLive.”
 
-### Sample Wording
+### Sample
 
 > Preferred FOH console: Avid S6L, DiGiCo SD12, or Yamaha CL5.
 > 
