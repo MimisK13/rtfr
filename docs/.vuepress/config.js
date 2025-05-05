@@ -2,7 +2,6 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { searchPlugin } from '@vuepress/plugin-search'
-//import { gitPlugin } from '@vuepress/plugin-git'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -18,7 +17,6 @@ export default defineUserConfig({
     docsBranch: 'master',
     editLink: true,
     editLinkText: 'Edit this page on GitHub',
-    // lastUpdated: 'Last Updated',
     lastUpdatedText: 'Last Updated',
 
     logo: '/images/logo.png',
@@ -78,6 +76,10 @@ export default defineUserConfig({
         ],
       },
        */
+      {
+        text: 'Formating',
+        link: '/formatting.md',
+      }
     ],
   }),
 
@@ -90,10 +92,6 @@ export default defineUserConfig({
         },
       },
     }),
-    // gitPlugin({
-    //   contributors: true,
-    //   updatedTime: true,
-    // }),
   ],
 
   bundler: viteBundler(),
