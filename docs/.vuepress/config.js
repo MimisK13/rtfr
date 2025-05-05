@@ -36,6 +36,7 @@ export default defineUserConfig({
           '/audio/input_list/',
           '/audio/backline/',
           '/audio/stage_plan/',
+          '/glossary.md',
         ],
       },
     ],

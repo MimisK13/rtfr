@@ -1,37 +1,41 @@
-# Monitor
+# Monitor Mix Needs
 
-[[TOC]]
+This section describes how many monitor mixes are required on stage, what each mix should include, and whether the artist uses wedge monitors, in-ear monitors (IEMs), or both. It helps the monitor engineer prepare a layout in advance and reduces setup time during soundcheck.
 
-## Mixing Desk
-General description of the technical specifications of the console (inputs, outputs, DSP etc) and selection suggestions to models and manufacturers.
+### What should this section include?
 
-::: details Example
-Desk: DiGiCo SD Series / Avid Profile, S3L, S6L / SoundCraft Vi Series / Yamaha CL5
-:::
+- **Total number of mixes**
+Specify how many independent mixes are needed. Example:
+'6 separate monitor mixes required.'
 
-### Outboards
-In the digital world this section is optional. In most cases, our digital desk covers all needs.
+- **Type of monitoring**
+Clarify the system type for each performer:
 
-But there are also cases where we need external processors (FX Units, Dynamics Prossecors).
+- `Drummer and vocalist use IEMs.`
 
-> 1 x Lexicon PCM 91
+- `All other members use wedges.`
 
-In the analog world this section is mandatory, as the need for external processors imposes.
+- **Mix content per position**
+Give a rough idea of what each performer wants to hear. For example:
 
-> 4ch x Gate
+## Sample
+
+> 6 separate monitor mixes required:
+> - Mix 1 (Drummer – IEM): Kick, Snare, Bass, Click
+> - Mix 2 (Lead Vocal – Wedge): Lead Vocals, Guitar, Keys, Backing Vox
+> - Mix 3 (Bass – Wedge): Bass, Kick, Snare, Vocals
+> - Mix 4 (Guitar – Wedge): Guitar, Lead Vocals, Kick
+> - Mix 5 (Keys – Wedge): Keys, Lead Vocals, Bass
+> - Mix 6 (Backing Vocals – Shared Wedge): Backing Vox, Lead Vocals
 >
-> 8ch x Compressor
->
-> 10ch x Graphic EQ 31 Band
->
-> 1 x Lexicon PCM 91
+> Artist provides IEM system for drummer. Venue must supply 5 powered wedges of equal make/model.
 > 
-> 1 x TC M2000
+> Talkback mic required from FOH to Mixes 1 and 2.
+
 
 ## Output List
 Detailed description of console outputs
 
-::: details Example
 | Mix    | Position / Musician | Type     |
 |:------:|:-------------------:|:--------:|
 | 1      | C                   | 2 x 12"  |
@@ -50,4 +54,3 @@ Detailed description of console outputs
 | 14     | FX1 R               | TC M2000 |
 | 15     | SF L                |          |
 | 16     | SF R                |          |
-:::
