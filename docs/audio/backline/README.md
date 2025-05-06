@@ -29,25 +29,25 @@ Optional but helpful to state: “Please provide backup snare and kick pedal if 
 ## Sample
 
 > Drums:
-> - 1x 22” Kick Drum
-> - 1x 14” Snare Drum (Ludwig or equivalent)
-> - 2x Rack Toms (10” & 12”), 1x Floor Tom (16”)
-> - 1x Snare Stand, 1x Hi-hat Stand, 3x Boom Cymbal Stands
-> - Drum Throne (adjustable)
+> - 01 x 22” Kick Drum
+> - 01 x 14” Snare Drum (Ludwig or equivalent)
+> - 02 x Rack Toms (10” & 12”), 1x Floor Tom (16”)
+> - 01 x Snare Stand, 1x Hi-hat Stand, 3x Boom Cymbal Stands
+> - 01 χ Drum Throne (adjustable)
 > - No cymbals required – drummer brings own
 > 
 > Amps:
-> - 1x Fender Hot Rod Deluxe (Guitar)
-> - 1x Ampeg SVT Classic Head + 8x10 Cabinet (Bass)
+> - 01 x Fender Hot Rod Deluxe (Guitar)
+> - 01 x Ampeg SVT Classic Head + 8x10 Cabinet (Bass)
 > 
 > Keyboards:
-> - 1x Double-tier keyboard stand (Z or Spider type)
-> - 1x Sustain pedal
+> - 01 x Double-tier keyboard stand (Z or Spider type)
+> - 01 x Sustain pedal
 > 
 > DJ Setup (Alternative Set):
-> - 2x Pioneer CDJ-3000
-> - 1x Pioneer DJM-A9
-> - 1x Sturdy DJ table (minimum 1m wide, 90–100cm height)
+> - 02 x Pioneer CDJ-3000
+> - 01 x Pioneer DJM-A9
+> - 01 x Sturdy DJ table (minimum 1m wide, 90–100cm height)
 >
 > Artist brings: guitars, bass, cymbals, laptop, MIDI controllers.
 
